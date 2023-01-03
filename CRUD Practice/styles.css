@@ -1,0 +1,13 @@
+#container h1 {
+    text-align: center;
+    color: red;
+}
+
+.recipe {
+    border-bottom: 2px dashed blue;
+    margin-bottom: 5px;
+  }
+
+#data{
+    margin: 20px;
+}
